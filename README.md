@@ -1,6 +1,7 @@
-# Detect-SharePoint-CVE-2025-53770.ps1
+# ZeroPoint.ps1
 
 > ⚠ A defensive PowerShell utility to detect and mitigate exploitation of the *CVE-2025-53770* zero-day vulnerability in *Microsoft SharePoint Server*.
+
 
 ---
 
@@ -39,7 +40,7 @@ This PowerShell script is designed to:
 1. Open *PowerShell as Administrator*
 2. Navigate to the script directory.
 3. Run "powershell -ep bypass"
-4. Run the script ".\zeropoint.ps1"
+4. Run the script ".\ZeroPoint.ps1"
 
 ## ✨ Features
 
