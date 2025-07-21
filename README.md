@@ -2,7 +2,7 @@
 
 > ⚠ A defensive PowerShell utility to detect and mitigate exploitation of the *CVE-2025-53770* zero-day vulnerability in *Microsoft SharePoint Server*.
 
-
+![Script Execution Screenshot](Zeropoint.png)
 ---
 
 ## 🔍 What it Does
